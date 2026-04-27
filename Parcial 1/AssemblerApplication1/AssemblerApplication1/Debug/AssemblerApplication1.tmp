@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>17</LINE></start>
+  <main_loop><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>30</LINE></main_loop>
+  <no_change><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>51</LINE></no_change>
+  <mostrar><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>48</LINE></mostrar>
+  <mostrar_numero><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>54</LINE></mostrar_numero>
+  <Numero0><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>83</LINE></Numero0>
+  <Numero1><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>87</LINE></Numero1>
+  <Numero2><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>93</LINE></Numero2>
+  <Numero3><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>98</LINE></Numero3>
+  <Numero4><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>107</LINE></Numero4>
+  <Numero5><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>113</LINE></Numero5>
+  <Numero6><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>122</LINE></Numero6>
+  <Numero7><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>131</LINE></Numero7>
+  <Numero8><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>143</LINE></Numero8>
+  <Numero9><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>149</LINE></Numero9>
+  <clear_pins><FILE>C:\Users\User\Desktop\Universidad\Noveno_Semestre\Microprocesadores\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>77</LINE></clear_pins>
+ </LABELS>
+</ASSEMBLER_INFO>
